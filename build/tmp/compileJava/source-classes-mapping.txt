@@ -64,3 +64,21 @@ mitocode/java/seava/genericos1/Clase.java
  mitocode.java.seava.genericos1.Clase
 mitocode/java/se/arrays/Main.java
  mitocode.java.se.arrays.Main
+samtelTest/Q17/Q18.java
+ samtelTest.Q17.Q18
+samtelTest/Q15/Base.java
+ samtelTest.Q15.Base
+samtelTest/Q15/Test.java
+ samtelTest.Q15.Test
+samtelTest/Q12/Q12.java
+ samtelTest.Q12.Q12
+samtelTest/Q13/Q13.java
+ samtelTest.Q13.Q13
+samtelTest/Q7/Q7.java
+ samtelTest.Q7.Decrementer
+ samtelTest.Q7.Q7
+samtelTest/Q14/Test1.java
+ samtelTest.Q14.Test1
+samtelTest/Q3/A.java
+ samtelTest.Q3.A
+ samtelTest.Q3.B
